@@ -1,7 +1,6 @@
 # StockSentCN
 
 #### This is a sample dataset from the StockSentCN dataset
-% ### This is a sample dataset from the StockSentCN dataset, and all the data will be made public once the paper is officially published.
 
 ### 
 ```
